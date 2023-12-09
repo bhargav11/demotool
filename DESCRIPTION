@@ -15,7 +15,7 @@ Author: Bhargav Singaraju [aut, cre],
   Nate Graff [ctb],
   Terrence Whittington [ctb]
 Maintainer: Bhargav Singaraju <bs683@cornell.edu>
-Description: policymakers make informed decisions that influence automakers to meet the Paris Agreements’ goal of achieving net zero by 2050
+Description: Predict Greenhouse gas scores for vehicles in the future
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
