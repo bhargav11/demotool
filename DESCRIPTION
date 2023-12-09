@@ -1,0 +1,24 @@
+Package: demotool
+Version: 0.1.0
+Date: 2023-11-01
+Title: Demo package for Publicly Available R Package Tool
+Authors@R: c(
+  person("Singaraju", "Bhargav", email = "bs683@cornell.edu", role = c("aut", "cre")),
+  person("Caicedo", "Antonio", email = "arc295@cornell.edu", role = "ctb"),
+  person("Dittler", "Graham", email = "ged48@cornell.edu", role = "ctb"),
+  person("Graff", "Nate", email = "ng386@cornell.edu", role = "ctb"),
+  person("Whittington", "Terrence", email = "tjw235@cornell.edu", role = "ctb")
+)
+Author: Bhargav Singaraju [aut, cre],
+  Antonio Caicedo [ctb],
+  Graham Dittler [ctb],
+  Nate Graff [ctb],
+  Terrence Whittington [ctb]
+Maintainer: Bhargav Singaraju <bs683@cornell.edu>
+Description: policymakers make informed decisions that influence automakers to meet the Paris Agreements’ goal of achieving net zero by 2050
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Rxoygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Depends: R (>= 3.5.0)
